@@ -18,5 +18,11 @@ public class ClaseMetodos {
 		System.out.println("Hola2");
 		
 	}
+	
+	public void mensaje3() {
+		
+		System.out.println("Hola3");
+		
+	}
 
 }
